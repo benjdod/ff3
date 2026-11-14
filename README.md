@@ -58,6 +58,19 @@ fn main() -> Result<(), ff3::Error> {
 }
 ```
 
+## Related
+
+GitHub user [Mysto](https://github.com/mysto) publishes and maintains FF3 and
+FF3-1 implementations in other languages, which inspired this crate:
+- C: https://github.com/mysto/clang-fpe
+- Java: https://github.com/mysto/java-fpe
+- Node.js: https://github.com/mysto/node-fpe
+- Python: https://github.com/mysto/python-fpe
+
+As noted above, NIST withdrew FF3 and FF3-1 from SP 800-38G in February 2025.
+These independent projects are linked for reference only; we do not maintain
+them or make any warranty regarding them.
+
 ## License
 
-Licensed under the [MIT License](https://opensource.org/license/mit/). 
+Licensed under the [MIT License](https://opensource.org/license/mit/).
