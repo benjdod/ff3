@@ -7,6 +7,7 @@ description = "FF3 and FF3-1 format-preserving encryption"
 license = "MIT"
 readme = "README.md"
 documentation = "https://docs.rs/ff3"
+repository = "https://github.com/benjdod/ff3"
 
 [lib]
 name = "ff3"
